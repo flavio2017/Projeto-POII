@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE> Flávio luis pinto </TITLE>
+<meta name=“aula” content=“Básico HTML”>
+<meta name=“keywords” content=“HTML”>
+<meta name=“author” content=“Flávio”>
+<meta charset="utf-8">
+</HEAD>
+<BODY>
+<h1> Flávio </h1>
+<h2>Sobre mim</h2>
+Bom dia sou eu Flávio Luis pinto aluno de sistema de Informação na Faculdade Lourenço
+<h2>sobre a disciplina</h2>
+<h2> A disciplina PooII tem como foco criação da pagina web</h2>
+<h2>sobre a instituição</h2>
+<h3>A Universidade Amilcar Cabral tem como finalidade ensinar e preparar os seus alunos para o mercado do trabalho</h3>
+
+<h2 class="info"> informações pessoaias</h3>
+<h4> nomes dos pais<h4>
+<ul>
+
+<li> Maruca</li>
+<li> Gelson</li>
+
+<h3> nomes dos irmãos</h3>
+<ol>
+
+<li> Neusa</li>
+<li> Junior</li>
+
+<h4> nome do primo</h4>
+<li>        </li>
+
+<h4> atividades favoritas</h4>
+<ul>
+<li> jogar futebol</li>
+<li> Descansar</li>
+<li> fazer limpeza</li>
+
+
+
+<img src=https://flf.edu.br/web/app/themes/flf/assets/img/logo.png>
+
+<h5><a href="alunos.htlm" target=" blanck"> lista de alunos</a></h5>
+<h5><a href="pagina 1.htlm" target=" blanck"> pagina1 </a></h5>
+<h5><a href="pagina 2.htlm" target=" blanck">  pagina2 </a></h5>
+<h5><a href="pagina 3.htlm" target=" blanck"> pagina3 </a></h5>
+<h5><a href="pagina 4.htlm" target=" blanck"> pagina4</a></h5>
+<h5><a href="pagina 5.htlm" target=" blanck"> pagina 5</a></h5>
+<h5><a href="pagina 6.htlm" target=" blanck"> pagina 6</a></h5>
+<h5><a href="pagina 7.htlm" target=" blanck"> pagina 7 não disponivel</a></h5>
+<h5><a href="pagina 8.htlm" target=" blanck"> pagina 8</a></h5>
+<h5><a href="pagina 9.htlm" target=" blanck"> pagina 9</a></h5>
+
+
+
+
+</BODY>
+</HTML>
